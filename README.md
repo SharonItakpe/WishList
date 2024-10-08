@@ -29,7 +29,9 @@ Here's a walkthrough of implemented user stories:
 
 <img src='http://i.imgur.com/WishList2.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-![WishList](https://drive.google.com/file/d/1is9KKaW1EBNqZIu4CIDI9tp-vUdewL1g/view?usp=share_link)
+![WishList](https://drive.google.com/uc?export=view&id=1is9KKaW1EBNqZIu4CIDI9tp-vUdewL1g)
+
+
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Kapture  
 <!-- Recommended tools:
