@@ -1,4 +1,4 @@
-# Android Project 2 - *Name of App Here*
+# Android Project 2 - *WishList*
 
 Submitted by: **Sharon Itakpe**
 
@@ -29,8 +29,9 @@ Here's a walkthrough of implemented user stories:
 
 <img src='http://i.imgur.com/WishList2.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
+![WishList](https://drive.google.com/file/d/1is9KKaW1EBNqZIu4CIDI9tp-vUdewL1g/view?usp=share_link)
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with Kapture  
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
