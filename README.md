@@ -27,11 +27,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/WishList2.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-![WishList](https://drive.google.com/uc?export=view&id=1is9KKaW1EBNqZIu4CIDI9tp-vUdewL1g)
-
-
+![WishList GIF](https://github.com/user-attachments/assets/44e458d6-3378-4313-88ed-24fc698d7aa2)
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Kapture  
 <!-- Recommended tools:
